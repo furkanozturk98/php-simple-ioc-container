@@ -1,0 +1,17 @@
+{
+    "name": "furkan/php-simple-ioc-container",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Furkan",
+            "email": "furkan.ozturk.98@hotmail.com"
+        }
+    ],
+    "require": {
+        "psr/container": "^2.0"
+    }
+}
